@@ -1,2 +1,10 @@
 .DS_Store
 cmake/CMakeFiles
+cmake/cmake_install.cmake
+cmake/CMakeCache.txt
+cmake/conan.lock
+cmake/conanbuildinfo.cmake
+cmake/conanbuildinfo.txt
+cmake/conaninfo.txt
+cmake/graph_info.json
+cmake/Makefile
