@@ -1,0 +1,5 @@
+
+[requires]
+libD/version
+[generators]
+cmake
